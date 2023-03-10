@@ -13,7 +13,7 @@ app.use(express.json());
 // we link the router files to make our route easy 
 app.use(require('./router/auth'));
 
-const PORT =  5000;
+const PORT =  8080;
 
 
 app.get('/about', (req, res) => {
