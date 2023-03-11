@@ -10,10 +10,10 @@ The TechSheRo was built using the MERN (MongoDB, Express, React, Node.js) stack.
 # Contributors
 The TechSheRo was developed by the following contributors:
 
-Shivani Vemula
-Sneha Pannati
-Nidhi Solanki
-Ramya Talatam
+Shivani Vemula,
+Sneha Pannati,
+Nidhi Solanki,
+Ramya Talatam,
 Triveni Gali
 
 # Project Features
