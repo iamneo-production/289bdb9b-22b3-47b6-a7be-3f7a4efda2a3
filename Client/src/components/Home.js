@@ -2,7 +2,7 @@ import React from 'react'
 import './NewHome.css';
 import { ArrowRightIcon } from '@chakra-ui/icons'
 import Navbar from './Navbar';
-
+import Chat from './Chat';
 const Home = () => {
   
   return (
@@ -42,22 +42,22 @@ const Home = () => {
               <div class="row">
                 <div class="col-md-6 icon-box" data-aos="fade-up">
                   <i class="bx bx-receipt"></i>
-                  <h4>Expand</h4>
+                  <h4>Expand:</h4>
                   <p>Connect with Women professionals in all domains and expand your network</p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
                   <i class="bx bx-cube-alt"></i>
-                  <h4>Explore</h4>
+                  <h4>Explore:</h4>
                   <p>Learn and browse through catalog of Tech and career resources </p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
                   <i class="bx bx-images"></i>
-                  <h4>Events</h4>
+                  <h4>Events:</h4>
                   <p>Workshops and webinars to learn and grow together </p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
                   <i class="bx bx-shield"></i>
-                  <h4>Empower</h4>
+                  <h4>Empower:</h4>
                   <p>Reduce the gender gap in Tech Industry and show the world what women are capable of!</p>
                 </div>
                 
@@ -165,7 +165,7 @@ const Home = () => {
     </ul>
     <p>&copy;2023 | All Rights Reserved</p>
   </footer>
-    
+    <Chat/>
     </>
   )
 }
