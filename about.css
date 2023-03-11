@@ -1,0 +1,32 @@
+.about-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    background-image: url('https://ilahsol.com/wp-content/uploads/2019/09/sap-back.jpg');
+    background-size: cover;
+    height: 100vh;
+  }
+  
+  .about-text {
+    width: 100%;
+    margin-right: 20px;
+    text-align: justify;
+    font-size: 20px;
+    color: azure;
+    font: optional;
+     
+  }
+  .about-text h2{
+    margin-bottom: 20px;
+    font-size: 30px;
+  }
+  
+  .square-image {
+    width: 400px;
+    height: 400px;
+    object-fit: cover; /* This property ensures that the image fills the square container while maintaining its aspect ratio */
+  }
+  
+  
