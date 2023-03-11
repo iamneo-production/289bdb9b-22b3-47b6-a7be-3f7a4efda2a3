@@ -1,0 +1,139 @@
+.cardProfil {
+    margin-top: 150px;
+    box-shadow: 0 4px 8px 0 #5777ba;
+    max-width: 800px;
+    max-height: 400px;
+    margin: auto;
+    padding: '20px';
+    text-align: center;
+    font-family: arial;
+    background-color:white;
+    border-radius: 33px;
+    margin-bottom: 35px;
+    color: rgb(0, 0, 0);
+  }
+  .h22resources{
+    padding-top: 15px;
+    color: white;
+    font-size: 28px;
+  }
+  .h2resources{
+    color: black;
+    padding: 25px;
+  }
+  #navlinkresources{
+    color: white;
+    font-size: 30px;
+    text-decoration: underline;
+  }
+  .btnresoucres{
+    background-color: #5777ba;
+    font-size: 22px;
+  }
+  .h1resources{
+    text-align: center;
+    font-size: 35px;
+    font-family: "Poppins", sans-serif;
+    padding: 200px;
+    color: white;
+    background-image: url(https://www.jadeglobal.com/sites/default/files/2022-09/Challenges-and-Remedies-of-Oracle-Fusion-Cloud-Integrations.jpg);
+
+    
+  }
+  .card{
+    width: '18rem';
+    padding: '20px';
+    background-color: 'rgb(246,246,246)';
+    border: 'none';
+    margin: '15px';
+   
+    
+  }
+  .title {
+    color: grey;
+    font-size: 30px;
+  }
+  
+  button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #5777ba;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  .h2resources{
+    padding-top: 15px;
+    font-size: 30px;
+  }
+  .h4resources{
+    padding-top: 35px;
+    padding-bottom: 35px;
+    font-size: 18px;
+  }
+  a {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+  }
+  
+  /* button:hover, a:hover {
+      background-color: white;
+      color: black;
+    opacity: 0.8;
+  } */
+  
+.cardProfile {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 800px;
+    max-height: 400px;
+    margin: auto;
+    padding: '20px';
+    text-align: center;
+    font-family: arial;
+    background-color:rgba(161, 137, 177, 0.8);
+    color: rgb(0, 0, 0);
+  }
+  .card{
+    width: '18rem';
+    padding: '20px';
+    background-color: 'rgb(246,246,246)';
+    border: 'none';
+    margin: '15px';
+   
+    
+  }
+  .title {
+    color: grey;
+    font-size: 30px;
+  }
+  
+  button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #5777ba;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  a {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+  }
+  
+  /* button:hover, a:hover {
+      background-color: white;
+      color: black;
+    opacity: 0.8;
+  } */
+  

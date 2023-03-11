@@ -1,0 +1,108 @@
+.PhoneInputInput, .PhoneInputCountry{
+    display: block;
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-family: "Poppins", sans-serif;
+ 
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    appearance: none;
+    border-radius: 0.375rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+  }
+  #anysugg{
+    font-family: "Poppins", sans-serif;
+    color: black;
+    font-size: 20px;
+  }
+  .checkform{
+    color: white;
+  }
+  #formlabel{
+    color: black;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+  }
+  .PhoneInput{
+    width: 100%;
+  }
+  
+  input:focus {
+    outline: none !important;
+    border:1px solid rgb(212, 210, 241) !important;
+    
+  }
+  .PhoneInputCountry{
+    width: auto;
+  }
+  
+  .padding30px{
+    padding: 30px !important;
+  }
+  
+  .required-field:after {
+    content:"*";
+    color: red;
+  }
+  
+  
+ 
+  
+  .card-header,thead {
+    background-color: rgb(161 3 244 / 3%) !important;
+  }
+  
+  .alert-danger{
+    --bs-alert-padding-x: 0rem !important;
+    --bs-alert-padding-y: 0rem !important;
+    font-size: small !important;
+    font-family: "Poppins", sans-serif;
+ 
+    display: none;
+  }
+    
+  .circle {
+    position: relative;
+    background: #8cc63e;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin-left: 48%;
+  }
+  #titlee{
+    color: black;
+    font-size: 25px;
+    
+  }
+  #thank{
+    font-size: 35px;
+    font-family: "Poppins", sans-serif;
+    margin-left: 30%;
+  }
+  .checkmark {
+    position: absolute;
+    transform: rotate(45deg) translate(-50%, -50%);
+    left: 35%;
+    top: 45%;
+    height: 20px;
+    width: 10px;
+    border-bottom: 3px solid white;
+    border-right: 3px solid white;
+  }
+  
+  label{
+    float: left;
+    color: black;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+  }
+  
+  .col{
+    margin-left: 30px !important;
+  }
+  

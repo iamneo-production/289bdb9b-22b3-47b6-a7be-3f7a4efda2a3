@@ -1,0 +1,157 @@
+.navbar-brand{
+  font-size: 25px;
+  font-family: "Poppins", sans-serif;
+}
+#searchinput{
+  margin-bottom: 49px;
+  padding-right: 127px;
+}
+.navbar{
+  margin-bottom: 10px;
+}
+#iamgess{
+height: 180px;
+width: 300px;
+}
+#h2about{
+color:white;
+text-align: center;
+font-size: 44px;
+font-family: "Poppins", sans-serif;
+margin-bottom: 50px;
+}
+#paraabout{
+color:white;
+text-align: center;
+font-size: 25px;
+font-family: "Poppins", sans-serif;
+}
+
+#img{
+  height: 173.4px;
+  width: 173.4px;
+}
+.row{
+  margin-bottom: 10px;
+}
+.card{
+  margin-bottom: 25px;
+}
+h3{
+  font-size: 20px;
+  margin-bottom: 10px;
+  font-family: "Poppins", sans-serif;
+}
+h4{
+font-family: "Poppins", sans-serif;
+  font-size: 15px;
+}
+.d-flex{
+  text-align: center;
+}
+.btn{
+font-family: "Poppins", sans-serif;
+  font-size: 15px;
+  padding:5px;
+  margin-top: 5px;
+  margin-bottom: 13px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: -2px;
+  
+  margin-left: 2px;
+}
+.form-control{
+  font-size: 15px;
+  padding:5px;
+  font-family: "Poppins", sans-serif;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: -2px;
+  margin-bottom: 5px;
+  margin-left: 2px;
+}
+.container-fluid{
+margin-left:38%;
+}
+.container {
+  background: white;
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.first-about{
+  background-image: url(https://www.eurocontrol.int/sites/default/files/styles/16_9_1920x1080/public/2019-10/eurocontrol-nm-uf-2020-banner.jpg?h=673214ff&itok=nOiVr6_h);
+  padding: 250px;
+  color:white;
+  background-repeat:repeat-x;
+}
+.first{
+  background-image: url(https://www.incimages.com/uploaded_files/image/1920x1080/woman-laptop-1940x900_35535.jpg);
+  padding: 250px;
+  margin-bottom: 50px;
+}
+#row{
+  margin-left: 32%;
+  margin-bottom: 120px;
+}
+#h2{
+  font-size: 50px;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  color: rgb(47, 47, 226);
+  padding-bottom: 15px;
+ 
+  
+}
+#buttonn{
+  background-color: #0e4bf1;
+  margin-top: 7px;
+    margin-bottom: 40px;
+}
+#para{
+  padding-top: 5px;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  text-align: center;
+  padding-bottom: 10px;
+  color: rgb(0, 0, 0);
+  
+}
+#btn{
+  background-color: rgb(47, 47, 226);
+}
