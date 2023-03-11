@@ -1,13 +1,10 @@
 .App {
     text-align: center;
   }
-  .rbc-toolbar button:active, .rbc-toolbar button.rbc-active {
-    background-image: none;
-    box-shadow: inset 0 3px 5px rgb(0 0 0 / 13%);
-    margin-left: -209px;
-    background-color: #e6e6e6;
-    border-color: #adadad;
-  }
+   .rbc-btn-group > button:not(:first-child):not(:last-child) {
+    border-radius: 0;
+    display: flex;
+}
   #inptdatepic{
     margin-left: 10px;
   }
