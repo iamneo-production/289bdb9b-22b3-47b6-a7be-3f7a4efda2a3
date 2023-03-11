@@ -42,30 +42,30 @@ const Home = () => {
               <div class="row">
                 <div class="col-md-6 icon-box" data-aos="fade-up">
                   <i class="bx bx-receipt"></i>
-                  <h4>User Friendly Interface</h4>
-                  <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                  <h4>Expand:</h4>
+                  <p>Connect with Women professionals in all domains and expand your network</p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
                   <i class="bx bx-cube-alt"></i>
-                  <h4>Security by Design</h4>
-                  <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                  <h4>Explore:</h4>
+                  <p>Learn and browse through catalog of Tech and career resources </p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
                   <i class="bx bx-images"></i>
-                  <h4>Responsive Interface</h4>
-                  <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                  <h4>Events:</h4>
+                  <p>Workshops and webinars to learn and grow together </p>
                 </div>
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
                   <i class="bx bx-shield"></i>
-                  <h4>A Search Option</h4>
-                  <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+                  <h4>Empower:</h4>
+                  <p>Reduce the gender gap in Tech Industry and show the world what women are capable of!</p>
                 </div>
                 
               </div>
             </div>
           </div>
           <div class="image col-xl-5 d-flex align-items-stretch justify-content-center order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="https://www.thenewsminute.com/sites/default/files/styles/news_detail/public/Woman_professional_on_laptop_090621_picxymunna_1200.jpeg?itok=rKBrN9SP" class="img-fluid" alt=""/>
+            <img src="https://img.freepik.com/free-photo/high-technology-digital-graph-presentation-by-businesswoman_53876-96141.jpg" class="img-fluid" alt=""/>
           </div>
         </div>
 
