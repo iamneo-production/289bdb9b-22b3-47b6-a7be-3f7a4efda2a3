@@ -90,7 +90,7 @@ const Signup=()=>{
                 onChange={handleInputs}/>
             </div>
             <div class="input-box">
-                <input type="text" name='email' placeholder="Enter your name" required
+                <input type="text" name='email' placeholder="Enter your work" required
                 value={user.email}
                 onChange={handleInputs}/>
             </div>
