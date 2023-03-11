@@ -19,11 +19,12 @@ import { LinkedProfiles } from './components/LinkedProfiles/LinkedProfiles'
 
 import Learn from './components/Learn/Learn'
 import Catalog from './components/Catalog/Catalog'
-import { Faq } from './components/Faq'
+
 import Forum from './components/Forum'
 import Calender from './components/Calender'
 import Forms from './components/Feedback/Forms'
 import Submissions from './components/Feedback/Submissions'
+import Chat from './components/Chat'
 export const UserContext=createContext();
   const Routing=()=>{
    
@@ -55,6 +56,7 @@ export const UserContext=createContext();
       
         <Route path="submissions" element={<Submissions />} />
         <Route path="submission/:id" element={<Submissions />} />
+        <Route path="chat" element={<Chat />} />
      
       </Routes>
 
@@ -80,4 +82,3 @@ const App= ()=> {
 }
 
 export default App;
-
