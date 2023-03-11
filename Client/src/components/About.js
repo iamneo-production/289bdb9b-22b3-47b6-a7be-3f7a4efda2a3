@@ -11,12 +11,8 @@ export default function About() {
             <div className='first-about'>
             <section class="module bg-dark-30 about-page-header">
           <div class="second">
-          <h2 id='h2about'>About Our Team</h2>
-          <p id='paraabout'>Lorem ipsum, in graphical and textual context, refers to filler text that is placed in a document or visual presentation. Lorem ipsum is derived from the Latin "dolorem ipsum" roughly translated as "pain itself."
-
-Lorem ipsum presents the sample font and orientation of writing on web pages and other software applications where content is not the main concern of the developer. </p>
-          
-           
+          <h2 id='h2about'>About Our TechSheRo</h2>
+          <p id='paraabout'>TechSheRo is an online platform that showcases the work and achievements of female technology professionals with the goal of inspiring other women to consider a career in technology. It features profiles of successful female tech leaders, as well as articles and resources about various aspects of the tech industry. The platform is designed to encourage and support women who are interested in pursuing a career in technology and to help them understand the impact they can have in this field. By providing a community of like-minded individuals, TechSheRo aims to break down barriers and empower women in technology.</p>   
           </div>
         </section>
             </div>

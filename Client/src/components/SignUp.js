@@ -90,7 +90,7 @@ const Signup=()=>{
                 onChange={handleInputs}/>
             </div>
             <div class="input-box">
-                <input type="text" name='email' placeholder="Enter your name" required
+                <input type="text" name='email' placeholder="Enter your work" required
                 value={user.email}
                 onChange={handleInputs}/>
             </div>
@@ -110,7 +110,7 @@ const Signup=()=>{
                 onChange={handleInputs}/>
             </div>
             <div class="input-box">
-                <input type="password" name='cpassword' placeholder="Enter your Confirm password" required pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}"
+                <input type="password" name='cpassword' placeholder="Confirm password" required pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}"
                 value={user.cpassword}
                 onChange={handleInputs}/>
             </div>

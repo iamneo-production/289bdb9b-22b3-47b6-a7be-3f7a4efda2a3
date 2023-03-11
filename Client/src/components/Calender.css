@@ -1,0 +1,69 @@
+.App {
+    text-align: center;
+  }
+  .rbc-toolbar button:active, .rbc-toolbar button.rbc-active {
+    background-image: none;
+    box-shadow: inset 0 3px 5px rgb(0 0 0 / 13%);
+    margin-left: -209px;
+    background-color: #e6e6e6;
+    border-color: #adadad;
+  }
+  #inptdatepic{
+    margin-left: 10px;
+  }
+  .head{
+    color:white;
+    font-size: 50px;
+    font-family: "Poppins", sans-serif;
+    padding: 200px;
+    color: white;
+    background-image: url(https://www.eurocontrol.int/sites/default/files/styles/3_1_1200x400/public/2019-11/p54-skyway-2019.jpg?h=b78b4923&itok=Mm0dsGXj);
+  }
+  .addev{
+    margin-top: 50px;
+    color: blue;
+    font-size: 25px;
+    font-family: "Poppins", sans-serif;
+  }
+  .App {
+    text-align: center;
+  }
+  
+  .head{
+    color:white;
+    font-size: 50px;
+  }
+  .addev{
+    color: blue;
+    font-size: 25px;
+  }
+  .evtime{
+    display: flex;
+    margin: 3%;
+  }
+  .inpt{
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    font-size: 1.2rem;
+      margin: 0 auto;
+    padding: 1.5rem 2rem;
+    border-radius: 0.2rem;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    width: 60%;
+    display: block;
+    border-bottom: 0.3rem solid transparent;
+    transition: all 0.3s;
+    background-color: lightcyan;
+  }
+  
+  .btncalender{
+      background-color:#3586ff;
+      color: white;
+      border:none; 
+      border-radius:10px; 
+      padding:15px;
+      width: 92%;
+      font-size: 25px;
+      margin-bottom:50px ;
+  }

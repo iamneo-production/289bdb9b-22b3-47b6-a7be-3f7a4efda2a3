@@ -146,6 +146,7 @@
         form .signup-link a{
           color: #4158d0;
           text-decoration: none;
+          font-size: 20px;
         }
         form .pass-link a:hover,
         form .signup-link a:hover{

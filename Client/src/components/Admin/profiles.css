@@ -2,6 +2,10 @@
   font-size: 25px;
   font-family: "Poppins", sans-serif;
 }
+#searchinput{
+  margin-bottom: 49px;
+  padding-right: 127px;
+}
 .navbar{
   margin-bottom: 10px;
 }
@@ -132,9 +136,12 @@ margin-left:38%;
   color: rgb(47, 47, 226);
   padding-bottom: 15px;
  
+  
 }
 #buttonn{
   background-color: #0e4bf1;
+  margin-top: 7px;
+    margin-bottom: 40px;
 }
 #para{
   padding-top: 5px;

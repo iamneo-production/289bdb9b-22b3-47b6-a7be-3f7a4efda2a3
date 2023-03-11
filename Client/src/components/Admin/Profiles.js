@@ -28,7 +28,7 @@ const Profiles = () => {
         <div className="container-fluid">
            
             <form className="d-flex" onSubmit={onSubmit} >
-            <input className="form-control me-2" type="text" onChange={(e) => setSearch(e.target.value)} placeholder="Search" aria-label="Search" />
+            <input id="searchinput" className="form-control me-2" type="text" onChange={(e) => setSearch(e.target.value)} placeholder="Search" aria-label="Search" />
             <input id="buttonn" className="btn btn-outline-success" type="submit" value="Search" />
             </form>
         </div>

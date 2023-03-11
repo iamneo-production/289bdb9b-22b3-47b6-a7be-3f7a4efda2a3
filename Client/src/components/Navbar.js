@@ -52,6 +52,9 @@ const Navbar = () => {
             <li>
               <NavLink to="/profiles">Profiles</NavLink>
             </li>
+            <li>
+              <NavLink to="/feedback">Feedback</NavLink>
+            </li>
             
             <li>
               <NavLink to="/login">Login</NavLink>
